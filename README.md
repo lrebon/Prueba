@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lrebon/Prueba/master)
+[![Binder](https://mybinder.org/badge.svg)](https://hub.gke.mybinder.org/user/lrebon-prueba-5zijsw65/tree)
